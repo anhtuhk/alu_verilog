@@ -1,0 +1,6 @@
+./top_testbench.v
+./top.v
+./alu.v
+./arithmetic_unit.v
+./logic_unit.v
+./mux21.v
